@@ -9,3 +9,4 @@ Esta aplicación obtiene el clima de una ciudad usando OpenWeatherMap.
 ```bash
 OPENWEATHER_API=<tu_api_key> npm start -- Buenos Aires
 Prueba pipeline CI/CD
+Probando pipeline CI/CD
